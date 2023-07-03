@@ -1,0 +1,22 @@
+.ocultar{
+    display:none;
+}
+.mostrar{
+    display: block;
+}
+.iamproducto{
+ height: 50px;
+}
+
+.producto{
+    text-align: center;
+    width: 300px;
+    background-color: aqua;
+    margin: 10px;
+    border-color: black;
+}
+.resultado {
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap ;
+}
